@@ -1,0 +1,33 @@
+﻿  main.cpp
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(56,69): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(56,69): warning C4244:         with
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(56,69): warning C4244:         [
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(56,69): warning C4244:             T=float
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(56,69): warning C4244:         ]
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(56,61): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(56,61): warning C4244:         with
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(56,61): warning C4244:         [
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(56,61): warning C4244:             T=float
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(56,61): warning C4244:         ]
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(113,70): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(113,70): warning C4244:         with
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(113,70): warning C4244:         [
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(113,70): warning C4244:             T=float
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(113,70): warning C4244:         ]
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(113,62): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(113,62): warning C4244:         with
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(113,62): warning C4244:         [
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(113,62): warning C4244:             T=float
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(113,62): warning C4244:         ]
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(274,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(326,28): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(326,23): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(327,40): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(327,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(328,30): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(328,25): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(329,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(329,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(375,56): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(375,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Trabajo Practico Integrador Wild Gunman.vcxproj -> C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\x64\Debug\Trabajo Practico Integrador Wild Gunman.exe

@@ -1,0 +1,74 @@
+﻿  main.cpp
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(18,32): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(18,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(30,37): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(30,30): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(38,37): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(38,30): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(45,37): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(45,30): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(52,37): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(52,30): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(33,3): error C2360: la inicialización de 'posY1' se omite en la etiqueta 'case'
+      C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(29,8):
+      vea la declaración de 'posY1'
+  
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(33,3): error C2360: la inicialización de 'posX1' se omite en la etiqueta 'case'
+      C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(28,8):
+      vea la declaración de 'posX1'
+  
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(41,3): error C2360: la inicialización de 'posY2' se omite en la etiqueta 'case'
+      C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(36,8):
+      vea la declaración de 'posY2'
+  
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(41,3): error C2360: la inicialización de 'posX2' se omite en la etiqueta 'case'
+      C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(35,8):
+      vea la declaración de 'posX2'
+  
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(41,3): error C2360: la inicialización de 'posY1' se omite en la etiqueta 'case'
+      C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(29,8):
+      vea la declaración de 'posY1'
+  
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(41,3): error C2360: la inicialización de 'posX1' se omite en la etiqueta 'case'
+      C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(28,8):
+      vea la declaración de 'posX1'
+  
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(48,3): error C2360: la inicialización de 'posY3' se omite en la etiqueta 'case'
+      C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(44,8):
+      vea la declaración de 'posY3'
+  
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(48,3): error C2360: la inicialización de 'posX3' se omite en la etiqueta 'case'
+      C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(43,8):
+      vea la declaración de 'posX3'
+  
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(48,3): error C2360: la inicialización de 'posY2' se omite en la etiqueta 'case'
+      C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(36,8):
+      vea la declaración de 'posY2'
+  
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(48,3): error C2360: la inicialización de 'posX2' se omite en la etiqueta 'case'
+      C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(35,8):
+      vea la declaración de 'posX2'
+  
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(48,3): error C2360: la inicialización de 'posY1' se omite en la etiqueta 'case'
+      C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(29,8):
+      vea la declaración de 'posY1'
+  
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(48,3): error C2360: la inicialización de 'posX1' se omite en la etiqueta 'case'
+      C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(28,8):
+      vea la declaración de 'posX1'
+  
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(77,59): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(77,59): warning C4244:         with
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(77,59): warning C4244:         [
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(77,59): warning C4244:             T=float
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(77,59): warning C4244:         ]
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(77,51): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(77,51): warning C4244:         with
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(77,51): warning C4244:         [
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(77,51): warning C4244:             T=float
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(77,51): warning C4244:         ]
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(102,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(128,28): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(128,23): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(154,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\Trabajo Practico Integrador Wild Gunman\Trabajo Practico Integrador Wild Gunman\main.cpp(154,37): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
